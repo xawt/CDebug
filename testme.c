@@ -2,7 +2,7 @@
  *  Place to test the debug functions
  */
 
-#include <cdebug.h>
+#include "cdebug.h"
 
 int main() {
     return 0;
